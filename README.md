@@ -13,7 +13,7 @@
 <div align="center">
 
 [![autocomplete](https://codeium.com/badges/user/neltri/autocomplete)](https://codeium.com/profile/neltri)
-![](https://komarev.com/ghpvc/?username=llTheBlankll&style=flat-square)
+![](https://komarev.com/ghpvc/?username=vbatecan&style=flat-square)
 
 </div>
 
@@ -21,9 +21,9 @@
 
   # Let's connect and have a chat! 💬  
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Nytriii)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llTheBlankll@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/the_vinciegelo/)
-  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:llTheBlankll@outlook.ph)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbatecan@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ceev_iinn/)
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Nytriii@outlook.com)
   <br>
   <br>
 </div>
@@ -137,7 +137,7 @@
   ### 🕓 Version Control 🕓
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llTheBlankll)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vbatecan)
 
   <br>
   <br>
@@ -213,9 +213,9 @@
 ### My Coding Activities
 <div align="center">
 
-  [![llTheBlankll's GitHub stats](https://github-readme-stats.vercel.app/api?username=llTheBlankll&show=prs_merged,prs_merged_percentage&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llTheBlankll&show_icons=true&theme=default&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&langs_count=6&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=llTheBlankll&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  [![vbatecan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbatecan&show=prs_merged,prs_merged_percentage&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbatecan&show_icons=true&theme=default&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&langs_count=6&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vbatecan&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 ## WakaTime Stats
@@ -311,6 +311,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 </div>
 
 <!---
-llTheBlankll/llTheBlankll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vbatecan/vbatecan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
