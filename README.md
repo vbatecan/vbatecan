@@ -221,13 +221,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C935%20hrs%2024%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 355.0 kB Used in GitHub's Storage 
- > 
-> 🏆 883 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -252,7 +248,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:47:19 UTC
+ Last Updated on 19/08/2025 18:48:28 UTC
 <!--END_SECTION:waka-->
 
 
