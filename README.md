@@ -221,7 +221,7 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C459%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C461%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -262,16 +262,23 @@ Sunday                   784 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               47 mins             ███████████░░░░░░░░░░░░░░   45.62 % 
+Python                   40 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
+HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              1 hr 3 mins         ███████████████░░░░░░░░░░   61.08 % 
+VS Code                  40 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+netacad-autoanswer       1 hr 3 mins         ███████████████░░░░░░░░░░   61.08 % 
+ml-practice              40 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 6 mins         ████████████████░░░░░░░░░   64.39 % 
+Windows                  37 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
 ```
 
 **I Mostly Code in Python** 
@@ -291,7 +298,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:05:39 UTC
+ Last Updated on 22/01/2026 18:59:17 UTC
 <!--END_SECTION:waka-->
 
 
