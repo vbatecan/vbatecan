@@ -149,16 +149,16 @@
 
 <div align="center">
     
-  [![TryHackMe User](https://tryhackme-images.s3.amazonaws.com/user-avatars/5e7450f254eefa07d09d0388-1745902484589)](https://tryhackme.com/p/vbatecan)
 </div>
 
 <div align="center">
-
   
   [![](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/214160)
   [![](https://img.shields.io/badge/-Spring%20Security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)]()
   [![](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()
   [![](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]()
+
+  <a href="https://tryhackme.com/p/vbatecan">Link to TryHackMe</a>
   <br>
   <br>
 </div>
