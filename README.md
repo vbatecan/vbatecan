@@ -1,18 +1,17 @@
 <div align="center">
 
-  ![](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Vince%20Angelo%20Batecan&desc=A%20passionate%20programmer%20from%20the%20Philippines&fontColor=FFFFFF&animation=twinkling&stroke=864AF9&descAlignY=60&strokeWidth=1.3&fontAlignY=40&descSize=24&textBg=false&section=header)
+  ![](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Vince%20Angelo%20Batecan&desc=A%20Full%20Stack%20Developer%20from%20the%20Philippines&fontColor=FFFFFF&animation=twinkling&stroke=864AF9&descAlignY=60&strokeWidth=1.3&fontAlignY=40&descSize=24&textBg=false&section=header)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=24&duration=1500&pause=500&color=86B6F6&background=42476900&center=true&vCenter=true&random=false&width=750&height=200&lines=Hi!+%F0%9F%91%8B;I'm+Vince+Angelo+Batecan;A+passionate+programmer+from+the+Philippines.+%F0%9F%92%BB;I+specialize+in+Java+and+Spring+Boot;building+robust+REST+API's;Contact+me+if+you+need+help!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=24&duration=1500&pause=500&color=86B6F6&background=42476900&center=true&vCenter=true&random=false&width=750&height=200&lines=Hi!+%F0%9F%91%8B;I'm+Vince+Angelo+Batecan;A+Full+Stack+Developer+from+the+Philippines.+%F0%9F%92%BB;I+specialize+in+Java+and+Spring+Boot;building+robust+REST+API's;Contact+me+if+you+need+help!)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![autocomplete](https://codeium.com/badges/user/neltri/autocomplete)](https://codeium.com/profile/neltri)
 ![](https://komarev.com/ghpvc/?username=vbatecan&style=flat-square)
 
 </div>
