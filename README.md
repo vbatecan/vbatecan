@@ -149,7 +149,7 @@
 
 <div align="center">
     
-  [![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)](https://tryhackme.com/p/llSorall)
+  [![TryHackMe User](https://tryhackme-images.s3.amazonaws.com/user-avatars/5e7450f254eefa07d09d0388-1745902484589)](https://tryhackme.com/p/vbatecan)
 </div>
 
 <div align="center">
