@@ -220,6 +220,8 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C240%20hrs%2049%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 774.7 kB Used in GitHub's Storage 
@@ -232,6 +234,53 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌆 Daytime                2862 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                2703 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Tuesday                  946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 1739 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+TypeScript               27 hrs 35 mins      █████████████████████░░░░   82.58 % 
+Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+
+🔥 Editors: 
+Claude Code              22 hrs 33 mins      █████████████████░░░░░░░░   67.48 % 
+Antigravity CLI          7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Antigravity IDE          3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🐱‍💻 Projects: 
+Pikash                   33 hrs 25 mins      █████████████████████████   100.00 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Linux                    33 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -249,7 +298,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:25 UTC
+ Last Updated on 25/07/2026 19:43:30 UTC
 <!--END_SECTION:waka-->
 
 
