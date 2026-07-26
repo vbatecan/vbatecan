@@ -220,13 +220,13 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C240%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C254%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 774.7 kB Used in GitHub's Storage 
+> 📦 781.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,953 Contributions in the Year 2026
+> 🏆 3,023 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -261,24 +261,25 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               27 hrs 35 mins      █████████████████████░░░░   82.58 % 
-Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               29 hrs 17 mins      ████████████████████░░░░░   80.64 % 
+Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+YAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 33 mins      █████████████████░░░░░░░░   67.48 % 
-Antigravity CLI          7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Antigravity IDE          3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              13 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.44 % 
+Antigravity CLI          9 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Codex CLI                6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Antigravity IDE          5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🐱‍💻 Projects: 
-Pikash                   33 hrs 25 mins      █████████████████████████   100.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Pikash                   36 hrs 15 mins      █████████████████████████   99.83 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    33 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -298,7 +299,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:43:30 UTC
+ Last Updated on 26/07/2026 19:44:47 UTC
 <!--END_SECTION:waka-->
 
 
