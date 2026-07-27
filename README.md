@@ -220,13 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C254%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C782%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 781.4 kB Used in GitHub's Storage 
+> 📦 782.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3,023 Contributions in the Year 2026
+> 🏆 3,029 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -261,25 +263,51 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               29 hrs 17 mins      ████████████████████░░░░░   80.64 % 
-Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-YAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript               33 hrs 24 mins      ███████████████████░░░░░░   77.35 % 
+Markdown                 3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+JSON                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Swift                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+YAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.44 % 
-Antigravity CLI          9 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Codex CLI                6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Antigravity IDE          5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Antigravity CLI          13 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Claude Code              12 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Codex CLI                8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Antigravity IDE          6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-Pikash                   36 hrs 15 mins      █████████████████████████   99.83 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Pikash                   43 hrs 8 mins       █████████████████████████   99.85 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    36 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 41 hrs 5 mins (95.1%)
+
+✍️ 27,762 lines written by AI, 47 lines written by hand (99.83% AI-written)
+
+🔤 426,138,358 Input Tokens, 2,001,638 Output Tokens
+
+💵 $1854.11 Estimated AI Cost This Week
+
+🧠 181 AI Sessions, 525 AI Prompts
+
+Opus                     13,047 lines        ███████████░░░░░░░░░░░░░░   44.42 % 
+GPT                      8,643 lines         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Sonnet                   5,342 lines         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Gemini                   1,673 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Antigravity-Cli          665 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 2,800 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -299,7 +327,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:44:47 UTC
+ Last Updated on 27/07/2026 20:04:54 UTC
 <!--END_SECTION:waka-->
 
 
