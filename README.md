@@ -220,10 +220,6 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C782%20hrs%2059%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs%2034%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 782.0 kB Used in GitHub's Storage 
@@ -263,51 +259,51 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               33 hrs 24 mins      ███████████████████░░░░░░   77.35 % 
-Markdown                 3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JSON                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Swift                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-YAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               28 hrs 4 mins       ███████████████████░░░░░░   75.49 % 
+Markdown                 3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+JSON                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Swift                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+YAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Antigravity CLI          13 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   31.86 % 
-Claude Code              12 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Codex CLI                8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Antigravity IDE          6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Antigravity CLI          11 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Claude Code              9 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+Codex CLI                8 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Antigravity IDE          4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🐱‍💻 Projects: 
-Pikash                   43 hrs 8 mins       █████████████████████████   99.85 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Pikash                   37 hrs 7 mins       █████████████████████████   99.83 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    43 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 5 mins (95.1%)
+⏱ AI Coding Time: 35 hrs 29 mins (95.46%)
 
-✍️ 27,762 lines written by AI, 47 lines written by hand (99.83% AI-written)
+✍️ 22,487 lines written by AI, 35 lines written by hand (99.84% AI-written)
 
-🔤 426,138,358 Input Tokens, 2,001,638 Output Tokens
+🔤 366,862,615 Input Tokens, 1,675,980 Output Tokens
 
-💵 $1854.11 Estimated AI Cost This Week
+💵 $1593.86 Estimated AI Cost This Week
 
-🧠 181 AI Sessions, 525 AI Prompts
+🧠 145 AI Sessions, 419 AI Prompts
 
-Opus                     13,047 lines        ███████████░░░░░░░░░░░░░░   44.42 % 
-GPT                      8,643 lines         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Sonnet                   5,342 lines         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Gemini                   1,673 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Antigravity-Cli          665 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Opus                     10,857 lines        ███████████░░░░░░░░░░░░░░   45.24 % 
+GPT                      8,643 lines         █████████░░░░░░░░░░░░░░░░   36.01 % 
+Sonnet                   2,668 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Gemini                   1,253 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Antigravity-Cli          580 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📚 Verbose Prompter — average 2,800 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 3,376 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -327,7 +323,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:04:54 UTC
+ Last Updated on 28/07/2026 20:01:25 UTC
 <!--END_SECTION:waka-->
 
 
