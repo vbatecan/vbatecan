@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C784%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C794%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-438%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-449%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 783.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,058 Contributions in the Year 2026
+> 🏆 3,059 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -236,81 +236,6 @@
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-🌆 Daytime                2862 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌃 Evening                2703 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Tuesday                  946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 1739 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-TypeScript               17 hrs 4 mins       ████████████████████░░░░░   78.03 % 
-JSON                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Swift                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-🔥 Editors: 
-Codex CLI                9 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.68 % 
-Antigravity CLI          6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-Antigravity IDE          3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🐱‍💻 Projects: 
-Pikash                   21 hrs 45 mins      █████████████████████████   99.37 % 
-simple_racing            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-💻 Operating System: 
-Linux                    21 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 hrs 23 mins (93.14%)
-
-✍️ 10,121 lines written by AI, 23 lines written by hand (99.77% AI-written)
-
-🔤 221,691,173 Input Tokens, 798,254 Output Tokens
-
-💵 $961.35 Estimated AI Cost This Week
-
-🧠 112 AI Sessions, 246 AI Prompts
-
-GPT                      9,628 lines         ██████████████████████░░░   88.68 % 
-Gemini                   634 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Antigravity-Cli          516 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Sonnet                   79 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📚 Verbose Prompter — average 5,426 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -328,7 +253,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:42:50 UTC
+ Last Updated on 02/08/2026 19:43:57 UTC
 <!--END_SECTION:waka-->
 
 
