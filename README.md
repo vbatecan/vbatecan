@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C794%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C805%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-449%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-460%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 783.5 kB Used in GitHub's Storage 
+> 📦 785.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,059 Contributions in the Year 2026
+> 🏆 3,096 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -236,6 +236,81 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌆 Daytime                2862 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                2703 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Tuesday                  946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 1739 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+TypeScript               33 hrs 18 mins      ██████████████████████░░░   89.14 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+SQL                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+
+🔥 Editors: 
+Codex CLI                20 hrs 14 mins      ██████████████░░░░░░░░░░░   54.18 % 
+Antigravity CLI          12 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Antigravity IDE          3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+VS Code                  1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+
+🐱‍💻 Projects: 
+Pikash                   37 hrs 15 mins      █████████████████████████   99.71 % 
+simple_racing            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+pikash-support-site      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Linux                    37 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 36 hrs 57 mins (98.91%)
+
+✍️ 29,025 lines written by AI, 30 lines written by hand (99.9% AI-written)
+
+🔤 718,748,643 Input Tokens, 2,347,422 Output Tokens
+
+💵 $2377.87 Estimated AI Cost This Week
+
+🧠 148 AI Sessions, 447 AI Prompts
+
+GPT                      26,462 lines        ██████████████████████░░░   87.59 % 
+Gemini                   3,352 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Sonnet                   303 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Antigravity-Cli          58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 6,878 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -253,7 +328,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:43:57 UTC
+ Last Updated on 04/08/2026 20:10:52 UTC
 <!--END_SECTION:waka-->
 
 
