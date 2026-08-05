@@ -220,21 +220,21 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C805%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C806%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-460%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-460%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 785.4 kB Used in GitHub's Storage 
+> 📦 786.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3,096 Contributions in the Year 2026
+> 🏆 3,112 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 70 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 45 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -263,62 +263,62 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               33 hrs 18 mins      ██████████████████████░░░   89.14 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-SQL                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TypeScript               29 hrs 3 mins       ██████████████████████░░░   87.90 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+SQL                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Codex CLI                20 hrs 14 mins      ██████████████░░░░░░░░░░░   54.18 % 
-Antigravity CLI          12 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Antigravity IDE          3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-VS Code                  1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Codex CLI                17 hrs 51 mins      ██████████████░░░░░░░░░░░   54.01 % 
+Antigravity CLI          11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.21 % 
+Antigravity IDE          3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-Pikash                   37 hrs 15 mins      █████████████████████████   99.71 % 
-simple_racing            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-pikash-support-site      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Pikash                   32 hrs 56 mins      █████████████████████████   99.67 % 
+simple_racing            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+pikash-support-site      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    37 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 57 mins (98.91%)
+⏱ AI Coding Time: 32 hrs 38 mins (98.76%)
 
-✍️ 29,025 lines written by AI, 30 lines written by hand (99.9% AI-written)
+✍️ 26,752 lines written by AI, 30 lines written by hand (99.89% AI-written)
 
-🔤 718,748,643 Input Tokens, 2,347,422 Output Tokens
+🔤 655,534,367 Input Tokens, 2,108,741 Output Tokens
 
-💵 $2377.87 Estimated AI Cost This Week
+💵 $2163.49 Estimated AI Cost This Week
 
-🧠 148 AI Sessions, 447 AI Prompts
+🧠 116 AI Sessions, 393 AI Prompts
 
-GPT                      26,462 lines        ██████████████████████░░░   87.59 % 
-Gemini                   3,352 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Sonnet                   303 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Antigravity-Cli          58 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GPT                      24,319 lines        ██████████████████████░░░   87.67 % 
+Gemini                   3,102 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Sonnet                   282 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 6,878 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 6,922 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-TypeScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Python                   29 repos            ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+C++                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -328,7 +328,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:10:52 UTC
+ Last Updated on 05/08/2026 20:07:22 UTC
 <!--END_SECTION:waka-->
 
 
