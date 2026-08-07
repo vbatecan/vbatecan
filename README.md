@@ -220,10 +220,6 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C806%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-460%20hrs%2034%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 786.7 kB Used in GitHub's Storage 
@@ -236,81 +232,6 @@
  > 
 > 🔑 45 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-🌆 Daytime                2862 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌃 Evening                2703 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Tuesday                  946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 1739 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-TypeScript               29 hrs 3 mins       ██████████████████████░░░   87.90 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-SQL                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-
-🔥 Editors: 
-Codex CLI                17 hrs 51 mins      ██████████████░░░░░░░░░░░   54.01 % 
-Antigravity CLI          11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.21 % 
-Antigravity IDE          3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-
-🐱‍💻 Projects: 
-Pikash                   32 hrs 56 mins      █████████████████████████   99.67 % 
-simple_racing            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-pikash-support-site      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Linux                    33 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 38 mins (98.76%)
-
-✍️ 26,752 lines written by AI, 30 lines written by hand (99.89% AI-written)
-
-🔤 655,534,367 Input Tokens, 2,108,741 Output Tokens
-
-💵 $2163.49 Estimated AI Cost This Week
-
-🧠 116 AI Sessions, 393 AI Prompts
-
-GPT                      24,319 lines        ██████████████████████░░░   87.67 % 
-Gemini                   3,102 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Sonnet                   282 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 6,922 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -328,7 +249,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:07:22 UTC
+ Last Updated on 07/08/2026 00:24:14 UTC
 <!--END_SECTION:waka-->
 
 
