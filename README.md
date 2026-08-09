@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C821%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C826%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-474%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-478%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 781.2 kB Used in GitHub's Storage 
+> 📦 781.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,129 Contributions in the Year 2026
+> 🏆 3,136 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -263,53 +263,53 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               28 hrs 21 mins      ███████████████████░░░░░░   75.70 % 
-CSS                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-C#                       1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               21 hrs 9 mins       █████████████████░░░░░░░░   66.74 % 
+CSS                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+C#                       1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-Codex CLI                20 hrs 12 mins      █████████████░░░░░░░░░░░░   53.93 % 
-Antigravity CLI          9 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Antigravity IDE          4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-VS Code                  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Codex CLI                14 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.63 % 
+Antigravity CLI          9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+VS Code                  4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Antigravity IDE          3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 🐱‍💻 Projects: 
-Pikash                   27 hrs 35 mins      ██████████████████░░░░░░░   73.63 % 
-solar-manila             6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Space Shooter            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-pikash-manager           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-StoryWeaver              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Pikash                   19 hrs 45 mins      ████████████████░░░░░░░░░   62.33 % 
+solar-manila             6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+vbatecan                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Space Shooter            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+pikash-manager           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Linux                    37 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 26 mins (94.62%)
+⏱ AI Coding Time: 29 hrs 33 mins (93.21%)
 
-✍️ 28,985 lines written by AI, 135 lines written by hand (99.54% AI-written)
+✍️ 23,403 lines written by AI, 128 lines written by hand (99.46% AI-written)
 
-🔤 637,598,954 Input Tokens, 3,673,838 Output Tokens
+🔤 500,733,316 Input Tokens, 3,223,915 Output Tokens
 
-💵 $2214.00 Estimated AI Cost This Week
+💵 $1909.16 Estimated AI Cost This Week
 
-🧠 138 AI Sessions, 455 AI Prompts
+🧠 115 AI Sessions, 382 AI Prompts
 
-GPT                      27,293 lines        ███████████████████████░░   90.22 % 
-Gemini                   2,638 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Sonnet                   282 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GPT                      21,781 lines        ██████████████████████░░░   89.03 % 
+Gemini                   2,510 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Sonnet                   136 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Opus                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📚 Verbose Prompter — average 5,342 characters per prompt
+🤖 AI-Driven — 99.46% of written lines came from AI
+📚 Verbose Prompter — average 1,915 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🚀 High AI Trust — 0.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -329,7 +329,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:09:11 UTC
+ Last Updated on 09/08/2026 19:12:29 UTC
 <!--END_SECTION:waka-->
 
 
