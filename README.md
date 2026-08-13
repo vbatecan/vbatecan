@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C853%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C853%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-505%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 795.4 kB Used in GitHub's Storage 
+> 📦 795.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,181 Contributions in the Year 2026
+> 🏆 3,188 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -236,6 +236,82 @@
  > 
 > 🔑 45 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌆 Daytime                2862 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                2703 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Tuesday                  946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 1739 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+TypeScript               29 hrs 54 mins      ██████████████████░░░░░░░   72.49 % 
+Markdown                 2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+C#                       1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+
+🔥 Editors: 
+Codex CLI                26 hrs 4 mins       ████████████████░░░░░░░░░   63.20 % 
+VS Code                  7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Antigravity CLI          6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Antigravity IDE          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+
+🐱‍💻 Projects: 
+Pikash                   35 hrs 1 min        █████████████████████░░░░   84.88 % 
+vbatecan                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Space Shooter            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+pikash-manager           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+StoryWeaver              48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+
+💻 Operating System: 
+Linux                    41 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 39 hrs 26 mins (95.62%)
+
+✍️ 53,554 lines written by AI, 135 lines written by hand (99.75% AI-written)
+
+🔤 112,292,236 Input Tokens, 3,692,771 Output Tokens
+
+💵 $268.58 Estimated AI Cost This Week
+
+🧠 134 AI Sessions, 336 AI Prompts
+
+GPT                      60,042 lines        ████████████████████████░   97.76 % 
+Gemini                   1,212 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Antigravity-Cli          105 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Codex-Cli                44 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Sonnet                   12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.75% of written lines came from AI
+📚 Verbose Prompter — average 4,315 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -253,7 +329,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:37:03 UTC
+ Last Updated on 13/08/2026 19:36:04 UTC
 <!--END_SECTION:waka-->
 
 
