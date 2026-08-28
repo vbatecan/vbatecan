@@ -226,7 +226,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 812.6 kB Used in GitHub's Storage 
+> 📦 812.7 kB Used in GitHub's Storage 
  > 
 > 🏆 3,334 Contributions in the Year 2026
  > 
@@ -236,6 +236,78 @@
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1895 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌆 Daytime                2866 commits        █████████░░░░░░░░░░░░░░░░   37.59 % 
+🌃 Evening                2716 commits        █████████░░░░░░░░░░░░░░░░   35.62 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   711 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Tuesday                  950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 1069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   988 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 1747 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+TypeScript               20 hrs 45 mins      ██████████████░░░░░░░░░░░   55.72 % 
+Other                    7 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Python                   3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+C#                       1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+
+🔥 Editors: 
+Antigravity CLI          18 hrs 52 mins      █████████████░░░░░░░░░░░░   50.68 % 
+Codex CLI                12 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   32.53 % 
+VS Code                  6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+
+🐱‍💻 Projects: 
+StoryWeaver              14 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.77 % 
+ams_fastapi              9 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Pikash                   6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+ams-web                  3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+CIT2101_2D               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+
+💻 Operating System: 
+Linux                    37 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 35 hrs 52 mins (96.32%)
+
+✍️ 38,076 lines written by AI, 115 lines written by hand (99.7% AI-written)
+
+🔤 17,354,207 Input Tokens, 2,342,513 Output Tokens
+
+💵 $138.50 Estimated AI Cost This Week
+
+🧠 168 AI Sessions, 546 AI Prompts
+
+GPT                      40,356 lines        █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.7% of written lines came from AI
+📄 Detailed Prompter — average 967 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -253,7 +325,7 @@ C#                       6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:30:27 UTC
+ Last Updated on 28/08/2026 02:18:30 UTC
 <!--END_SECTION:waka-->
 
 
