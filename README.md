@@ -220,9 +220,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C995%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C995%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-663%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-666%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -263,53 +263,49 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               19 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.23 % 
-Other                    8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Unity3D Asset            8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-C#                       5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+TypeScript               17 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.96 % 
+Other                    10 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+C#                       5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Unity3D Asset            2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🔥 Editors: 
-Antigravity CLI          26 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.87 % 
-Codex CLI                18 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
-VS Code                  7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Antigravity CLI          24 hrs 39 mins      ███████████████░░░░░░░░░░   60.28 % 
+Codex CLI                11 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+VS Code                  4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 
 🐱‍💻 Projects: 
-Pikash                   20 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.80 % 
-CIT2101_2D               17 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
-StoryWeaver              7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-ThreadDeck               3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-vbatecan                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Pikash                   20 hrs 47 mins      █████████████░░░░░░░░░░░░   50.83 % 
+CIT2101_2D               9 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+StoryWeaver              7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+gemimage                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+cim 1101                 47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-Linux                    52 hrs 38 mins      █████████████████████████   99.94 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Linux                    40 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 16 mins (97.34%)
+⏱ AI Coding Time: 40 hrs 25 mins (98.79%)
 
-✍️ 18,618 lines written by AI, 78 lines written by hand (99.58% AI-written)
+✍️ 14,388 lines written by AI, 18 lines written by hand (99.88% AI-written)
 
-🔤 9,771,599 Input Tokens, 1,340,229 Output Tokens
+🔤 5,946,543 Input Tokens, 866,039 Output Tokens
 
-💵 $383.90 Estimated AI Cost This Week
+💵 $245.89 Estimated AI Cost This Week
 
-🧠 179 AI Sessions, 729 AI Prompts
+🧠 143 AI Sessions, 601 AI Prompts
 
-GPT                      19,045 lines        █████████████████████████   98.20 % 
-Codex-Cli                349 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      14,614 lines        ████████████████████████░   97.77 % 
+Codex-Cli                334 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📄 Detailed Prompter — average 1,348 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 1,146 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 15.82% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -329,7 +325,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:46:58 UTC
+ Last Updated on 13/09/2026 21:02:35 UTC
 <!--END_SECTION:waka-->
 
 
