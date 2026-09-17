@@ -236,78 +236,6 @@
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-🌆 Daytime                2899 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌃 Evening                2757 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 1777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Other                    9 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.99 % 
-TypeScript               7 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.15 % 
-Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-
-🔥 Editors: 
-Antigravity CLI          15 hrs 59 mins      █████████████████████░░░░   83.99 % 
-VS Code                  1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Codex CLI                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-
-🐱‍💻 Projects: 
-Pikash                   15 hrs 49 mins      █████████████████████░░░░   83.08 % 
-gemimage                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-cim 1101                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-CIT2101_2D               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-vbatecan                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-💻 Operating System: 
-Linux                    19 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 38 mins (97.84%)
-
-✍️ 463 lines written by AI, 15 lines written by hand (96.86% AI-written)
-
-🔤 842,705 Input Tokens, 55,727 Output Tokens
-
-💵 $35.07 Estimated AI Cost This Week
-
-🧠 46 AI Sessions, 229 AI Prompts
-
-GPT                      511 lines           █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.86% of written lines came from AI
-📄 Detailed Prompter — average 652 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.61% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -325,7 +253,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:32:55 UTC
+ Last Updated on 17/09/2026 21:36:52 UTC
 <!--END_SECTION:waka-->
 
 
