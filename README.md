@@ -236,6 +236,72 @@
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌆 Daytime                2899 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                2757 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 1777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Other                    3 hrs 35 mins       ███████████████░░░░░░░░░░   61.60 % 
+Python                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+SQL                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+
+🔥 Editors: 
+Antigravity CLI          5 hrs 11 mins       ██████████████████████░░░   88.99 % 
+VS Code                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+
+🐱‍💻 Projects: 
+Pikash                   4 hrs 9 mins        ██████████████████░░░░░░░   71.32 % 
+gemimage                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+pikash-manager           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+💻 Operating System: 
+Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 28 mins (93.74%)
+
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 65 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 657 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -253,7 +319,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:36:52 UTC
+ Last Updated on 18/09/2026 21:08:05 UTC
 <!--END_SECTION:waka-->
 
 
