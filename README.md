@@ -220,9 +220,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C997%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C998%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-668%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-669%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -263,43 +263,46 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       ███████████████░░░░░░░░░░   61.60 % 
-Python                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-SQL                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Other                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Antigravity CLI          5 hrs 11 mins       ██████████████████████░░░   88.99 % 
-VS Code                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Antigravity CLI          2 hrs 10 mins       ██████████████░░░░░░░░░░░   54.90 % 
+Codex CLI                57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+VS Code                  50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 
 🐱‍💻 Projects: 
-Pikash                   4 hrs 9 mins        ██████████████████░░░░░░░   71.32 % 
-gemimage                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-pikash-manager           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Pikash                   2 hrs 17 mins       ██████████████░░░░░░░░░░░   57.96 % 
+gemimage                 1 hr 40 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
 
 💻 Operating System: 
-Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (93.74%)
+⏱ AI Coding Time: 3 hrs 27 mins (87.29%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 763 lines written by AI, 11 lines written by hand (98.58% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 400,370 Input Tokens, 31,543 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $11.00 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 65 AI Prompts
+🧠 15 AI Sessions, 54 AI Prompts
+
+GPT                      838 lines           █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 657 characters per prompt
+🤖 AI-Driven — 98.58% of written lines came from AI
+📚 Verbose Prompter — average 2,338 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 1.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -319,7 +322,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:55:53 UTC
+ Last Updated on 20/09/2026 20:59:58 UTC
 <!--END_SECTION:waka-->
 
 
