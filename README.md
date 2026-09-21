@@ -263,46 +263,47 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Other                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               2 hrs 13 mins       █████████████░░░░░░░░░░░░   51.63 % 
+Markdown                 1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   39.60 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 10 mins       ██████████████░░░░░░░░░░░   54.90 % 
-Codex CLI                57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-VS Code                  50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Codex CLI                3 hrs 56 mins       ███████████████████████░░   91.28 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Antigravity CLI          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-Pikash                   2 hrs 17 mins       ██████████████░░░░░░░░░░░   57.96 % 
-gemimage                 1 hr 40 mins        ███████████░░░░░░░░░░░░░░   42.04 % 
+Pikash                   3 hrs 44 mins       ██████████████████████░░░   86.75 % 
+pikash-manager           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+facebook-autopost        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (87.29%)
+⏱ AI Coding Time: 4 hrs 10 mins (96.8%)
 
-✍️ 763 lines written by AI, 11 lines written by hand (98.58% AI-written)
+✍️ 2,956 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 400,370 Input Tokens, 31,543 Output Tokens
+🔤 1,124,334 Input Tokens, 141,907 Output Tokens
 
-💵 $11.00 Estimated AI Cost This Week
+💵 $42.27 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 54 AI Prompts
+🧠 9 AI Sessions, 27 AI Prompts
 
-GPT                      838 lines           █████████████████████████   100.00 % 
+GPT                      3,170 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📚 Verbose Prompter — average 2,338 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.76% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 4,318 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -322,7 +323,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 20:59:58 UTC
+ Last Updated on 21/09/2026 22:07:54 UTC
 <!--END_SECTION:waka-->
 
 
