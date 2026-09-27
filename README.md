@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C999%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C002%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-671%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-673%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 3,579 Contributions in the Year 2026
+> 🏆 3,597 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -239,21 +239,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-🌆 Daytime                2900 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌃 Evening                2757 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌆 Daytime                2907 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                2757 commits        █████████░░░░░░░░░░░░░░░░   35.74 % 
 🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Saturday                 1778 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 1778 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Sunday                   1155 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
 
@@ -263,48 +263,57 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               2 hrs 38 mins       █████████████████████████   100.00 % 
+TypeScript               8 hrs 43 mins       ████████████████████░░░░░   81.39 % 
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 17 mins       ██████████████████████░░░   86.40 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Antigravity CLI          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Codex Vscode             6 hrs 36 mins       ███████████████░░░░░░░░░░   61.74 % 
+Codex CLI                3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🐱‍💻 Projects: 
-Pikash                   2 hrs 38 mins       █████████████████████████   100.00 % 
+Pikash                   8 hrs 37 mins       ████████████████████░░░░░   80.48 % 
+facebook-autopost        1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+pikash-manager           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Piso-WiFi                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+wireless                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 30 mins (94.77%)
+⏱ AI Coding Time: 10 hrs 39 mins (99.43%)
 
-✍️ 836 lines written by AI, 1 lines written by hand (99.88% AI-written)
+✍️ 5,247 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,127,481 Input Tokens, 97,644 Output Tokens
+🔤 5,593,762 Input Tokens, 781,028 Output Tokens
 
-💵 $85.54 Estimated AI Cost This Week
+💵 $286.20 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 24 AI Sessions, 85 AI Prompts
 
-GPT                      939 lines           █████████████████████████   100.00 % 
+GPT                      5,888 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 4,153 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,910 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   31 repos            ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Python                   30 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
 Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
 C#                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 Wolfram Language         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
@@ -317,7 +326,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:23:58 UTC
+ Last Updated on 27/09/2026 21:32:41 UTC
 <!--END_SECTION:waka-->
 
 
