@@ -220,9 +220,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C005%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C011%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-676%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-682%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -263,49 +263,48 @@ Sunday                   1155 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               7 hrs 55 mins       ████████████████████░░░░░   78.77 % 
-Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+TypeScript               10 hrs 37 mins      ███████████████████░░░░░░   74.55 % 
+Python                   1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+SQL                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 29 mins       ███████████████████░░░░░░   74.45 % 
-Codex CLI                1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-VS Code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Codex Vscode             12 hrs 4 mins       █████████████████████░░░░   84.81 % 
+VS Code                  1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-Pikash                   7 hrs 3 mins        ██████████████████░░░░░░░   70.22 % 
-facebook-autopost        1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-threads-autopost         54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-pikash-manager           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Piso-WiFi                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Pikash                   11 hrs 13 mins      ████████████████████░░░░░   78.82 % 
+facebook-autopost        1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+threads-autopost         54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+vbatecan                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Piso-WiFi                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    10 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 59 mins (99.39%)
+⏱ AI Coding Time: 14 hrs 10 mins (99.54%)
 
-✍️ 5,799 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,144 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,793,667 Input Tokens, 885,594 Output Tokens
+🔤 9,864,140 Input Tokens, 1,057,228 Output Tokens
 
-💵 $255.84 Estimated AI Cost This Week
+💵 $269.54 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 97 AI Prompts
+🧠 54 AI Sessions, 135 AI Prompts
 
-GPT                      6,430 lines         █████████████████████████   100.00 % 
+GPT                      10,360 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,112 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 4,779 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -326,7 +325,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:27:40 UTC
+ Last Updated on 03/10/2026 21:39:27 UTC
 <!--END_SECTION:waka-->
 
 
