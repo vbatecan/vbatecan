@@ -236,6 +236,79 @@
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+🌆 Daytime                2907 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
+🌃 Evening                2761 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Saturday                 1778 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Sunday                   1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+TypeScript               17 hrs 28 mins      ████████████████░░░░░░░░░   65.65 % 
+Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+SQL                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+C#                       1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+🔥 Editors: 
+Codex Vscode             14 hrs 21 mins      █████████████░░░░░░░░░░░░   53.97 % 
+VS Code                  11 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+
+🐱‍💻 Projects: 
+Pikash                   23 hrs 17 mins      ██████████████████████░░░   87.52 % 
+CIT2101_2D               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+threads-autopost         1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+zsh                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+build                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+
+💻 Operating System: 
+Linux                    26 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 26 hrs 36 mins (99.97%)
+
+✍️ 62,638 lines written by AI, 1 lines written by hand (100.0% AI-written)
+
+🔤 81,758,305 Input Tokens, 16,168,694 Output Tokens
+
+💵 $2722.91 Estimated AI Cost This Week
+
+🧠 77 AI Sessions, 181 AI Prompts
+
+GPT                      64,742 lines        █████████████████████████   99.96 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,019 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -253,7 +326,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:16:20 UTC
+ Last Updated on 06/10/2026 22:46:41 UTC
 <!--END_SECTION:waka-->
 
 
