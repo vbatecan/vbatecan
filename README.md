@@ -263,48 +263,48 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               17 hrs 28 mins      ████████████████░░░░░░░░░   65.65 % 
-Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-SQL                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-C#                       1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+TypeScript               16 hrs 33 mins      ████████████████░░░░░░░░░   65.63 % 
+Markdown                 3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+SQL                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+C#                       1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 21 mins      █████████████░░░░░░░░░░░░   53.97 % 
-VS Code                  11 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
-Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Codex Vscode             13 hrs 11 mins      █████████████░░░░░░░░░░░░   52.24 % 
+VS Code                  11 hrs 25 mins      ███████████░░░░░░░░░░░░░░   45.26 % 
+Claude Code              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🐱‍💻 Projects: 
-Pikash                   23 hrs 17 mins      ██████████████████████░░░   87.52 % 
-CIT2101_2D               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-threads-autopost         1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-zsh                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-build                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Pikash                   23 hrs 7 mins       ███████████████████████░░   91.66 % 
+CIT2101_2D               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+zsh                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+build                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+vbatecan                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Linux                    26 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 36 mins (99.97%)
+⏱ AI Coding Time: 25 hrs 13 mins (99.97%)
 
-✍️ 62,638 lines written by AI, 1 lines written by hand (100.0% AI-written)
+✍️ 61,942 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 81,758,305 Input Tokens, 16,168,694 Output Tokens
+🔤 80,293,071 Input Tokens, 15,930,638 Output Tokens
 
-💵 $2722.91 Estimated AI Cost This Week
+💵 $2716.27 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 181 AI Prompts
+🧠 68 AI Sessions, 157 AI Prompts
 
-GPT                      64,742 lines        █████████████████████████   99.96 % 
+GPT                      64,026 lines        █████████████████████████   99.96 % 
 Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,019 characters per prompt
+📚 Verbose Prompter — average 4,381 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -326,7 +326,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:46:41 UTC
+ Last Updated on 07/10/2026 23:16:56 UTC
 <!--END_SECTION:waka-->
 
 
