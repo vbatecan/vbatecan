@@ -263,49 +263,48 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               15 hrs 57 mins      ████████████████░░░░░░░░░   63.34 % 
-Markdown                 3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-C#                       1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-SQL                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Unity3D Asset            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+TypeScript               11 hrs 22 mins      ███████████████░░░░░░░░░░   59.95 % 
+Markdown                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+C#                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Unity3D Asset            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Codex Vscode             12 hrs 23 mins      ████████████░░░░░░░░░░░░░   49.19 % 
-VS Code                  11 hrs 37 mins      ████████████░░░░░░░░░░░░░   46.13 % 
-Codex CLI                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Claude Code              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+VS Code                  10 hrs 22 mins      ██████████████░░░░░░░░░░░   54.67 % 
+Codex Vscode             7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
+Codex CLI                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🐱‍💻 Projects: 
-Pikash                   21 hrs 20 mins      █████████████████████░░░░   84.73 % 
-CIT2101_2D               3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-scholars-path            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-build                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-vbatecan                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Pikash                   15 hrs 17 mins      ████████████████████░░░░░   80.51 % 
+CIT2101_2D               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+scholars-path            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+build                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    25 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 38 mins (97.78%)
+⏱ AI Coding Time: 18 hrs 25 mins (97.07%)
 
-✍️ 61,491 lines written by AI, 2 lines written by hand (100.0% AI-written)
+✍️ 54,146 lines written by AI, 2 lines written by hand (100.0% AI-written)
 
-🔤 77,859,135 Input Tokens, 15,699,941 Output Tokens
+🔤 71,934,439 Input Tokens, 15,144,871 Output Tokens
 
-💵 $2663.86 Estimated AI Cost This Week
+💵 $2637.48 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 153 AI Prompts
+🧠 33 AI Sessions, 94 AI Prompts
 
-GPT                      63,441 lines        █████████████████████████   99.96 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GPT                      57,289 lines        █████████████████████████   99.95 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,594 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 4,692 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -326,7 +325,7 @@ C#                       7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:49:40 UTC
+ Last Updated on 10/10/2026 21:57:12 UTC
 <!--END_SECTION:waka-->
 
 
