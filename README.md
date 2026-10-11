@@ -228,13 +228,13 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 3,664 Contributions in the Year 2026
+> 🏆 3,665 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 71 Public Repositories 
  > 
-> 🔑 51 Private Repositories 
+> 🔑 52 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -263,48 +263,46 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               11 hrs 22 mins      ███████████████░░░░░░░░░░   59.95 % 
-Markdown                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-C#                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Unity3D Asset            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               8 hrs 19 mins       ██████████████░░░░░░░░░░░   55.04 % 
+Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+C#                       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+SQL                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Unity3D Asset            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 22 mins      ██████████████░░░░░░░░░░░   54.67 % 
-Codex Vscode             7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-Codex CLI                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+VS Code                  7 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.38 % 
+Codex Vscode             6 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.29 % 
+Codex CLI                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🐱‍💻 Projects: 
-Pikash                   15 hrs 17 mins      ████████████████████░░░░░   80.51 % 
-CIT2101_2D               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-scholars-path            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-build                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Pikash                   11 hrs 33 mins      ███████████████████░░░░░░   76.44 % 
+CIT2101_2D               3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+scholars-path            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-Linux                    18 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 25 mins (97.07%)
+⏱ AI Coding Time: 14 hrs 33 mins (96.32%)
 
-✍️ 54,146 lines written by AI, 2 lines written by hand (100.0% AI-written)
+✍️ 37,415 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 71,934,439 Input Tokens, 15,144,871 Output Tokens
+🔤 64,063,159 Input Tokens, 13,565,125 Output Tokens
 
-💵 $2637.48 Estimated AI Cost This Week
+💵 $2600.29 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 94 AI Prompts
+🧠 21 AI Sessions, 80 AI Prompts
 
-GPT                      57,289 lines        █████████████████████████   99.95 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      39,008 lines        █████████████████████████   99.93 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,692 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 4,155 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -325,7 +323,7 @@ C#                       7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:57:12 UTC
+ Last Updated on 11/10/2026 22:15:21 UTC
 <!--END_SECTION:waka-->
 
 
