@@ -226,9 +226,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 3,712 Contributions in the Year 2026
+> 🏆 3,719 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -263,54 +263,54 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Markdown                 3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-C#                       1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-CSS                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Markdown                 3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+C#                       1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Unity3D Asset            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 49 mins       █████████████░░░░░░░░░░░░   51.50 % 
-VS Code                  6 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-Claude Code              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Antigravity CLI          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Codex Vscode             6 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.35 % 
+VS Code                  6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.44 % 
+Claude Code              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Antigravity CLI          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🐱‍💻 Projects: 
-CIT2101_2D               4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-pikash-project           3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-pikash-web               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Unknown Project          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-little_us                1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+CIT2101_2D               4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
+pikash-project           3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+pikash-web               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+little_us                1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+DCSSMeetingScheduler     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 💻 Operating System: 
-Linux                    15 hrs 40 mins      ███████████████████████░░   91.45 % 
-Windows                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Linux                    13 hrs 18 mins      ███████████████████████░░   90.08 % 
+Windows                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 27 mins (90.18%)
+⏱ AI Coding Time: 13 hrs 5 mins (88.62%)
 
-✍️ 18,441 lines written by AI, 355 lines written by hand (98.11% AI-written)
+✍️ 17,981 lines written by AI, 355 lines written by hand (98.06% AI-written)
 
-🔤 17,518,816 Input Tokens, 2,437,700 Output Tokens
+🔤 17,428,553 Input Tokens, 2,397,932 Output Tokens
 
-💵 $319.23 Estimated AI Cost This Week
+💵 $317.26 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 102 AI Prompts
+🧠 35 AI Sessions, 93 AI Prompts
 
-GPT                      17,157 lines        ███████████████████████░░   93.60 % 
-Gemini                   1,147 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+GPT                      16,697 lines        ███████████████████████░░   93.44 % 
+Gemini                   1,147 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.11% of written lines came from AI
-📚 Verbose Prompter — average 1,716 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.45% of changed lines were hand-edited
+🤖 AI-Driven — 98.06% of written lines came from AI
+📚 Verbose Prompter — average 1,878 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -330,7 +330,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:49:23 UTC
+ Last Updated on 18/10/2026 20:58:31 UTC
 <!--END_SECTION:waka-->
 
 
