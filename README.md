@@ -228,7 +228,7 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 3,719 Contributions in the Year 2026
+> 🏆 3,720 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -239,15 +239,15 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1919 commits        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-🌆 Daytime                2967 commits        ██████████░░░░░░░░░░░░░░░   38.07 % 
+🌞 Morning                1920 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+🌆 Daytime                2967 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
 🌃 Evening                2761 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
 🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   763 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Monday                   764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 Tuesday                  962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 Thursday                 1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
@@ -263,54 +263,53 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-Markdown                 3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-C#                       1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Unity3D Asset            1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+TypeScript               2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+C#                       1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Other                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Unity3D Asset            1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.35 % 
-VS Code                  6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.44 % 
-Claude Code              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Antigravity CLI          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Codex Vscode             5 hrs 8 mins        ████████████████░░░░░░░░░   62.53 % 
+VS Code                  2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Antigravity CLI          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 🐱‍💻 Projects: 
-CIT2101_2D               4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
-pikash-project           3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-pikash-web               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-little_us                1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-DCSSMeetingScheduler     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+CIT2101_2D               3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
+pikash-web               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+DCSSMeetingScheduler     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+dbm_scheduling           45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+scholars-path            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 💻 Operating System: 
-Linux                    13 hrs 18 mins      ███████████████████████░░   90.08 % 
-Windows                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Linux                    6 hrs 45 mins       █████████████████████░░░░   82.20 % 
+Windows                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 5 mins (88.62%)
+⏱ AI Coding Time: 6 hrs 32 mins (79.56%)
 
-✍️ 17,981 lines written by AI, 355 lines written by hand (98.06% AI-written)
+✍️ 2,745 lines written by AI, 355 lines written by hand (88.55% AI-written)
 
-🔤 17,428,553 Input Tokens, 2,397,932 Output Tokens
+🔤 3,891,122 Input Tokens, 606,612 Output Tokens
 
-💵 $317.26 Estimated AI Cost This Week
+💵 $23.58 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 93 AI Prompts
+🧠 20 AI Sessions, 66 AI Prompts
 
-GPT                      16,697 lines        ███████████████████████░░   93.44 % 
-Gemini                   1,147 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GPT                      1,722 lines         ███████████████░░░░░░░░░░   60.02 % 
+Gemini                   1,147 lines         ██████████░░░░░░░░░░░░░░░   39.98 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.06% of written lines came from AI
-📚 Verbose Prompter — average 1,878 characters per prompt
+🤖 AI-Driven — 88.55% of written lines came from AI
+📚 Verbose Prompter — average 1,999 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.51% of changed lines were hand-edited
+🚀 High AI Trust — 14.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -330,7 +329,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:58:31 UTC
+ Last Updated on 19/10/2026 22:34:13 UTC
 <!--END_SECTION:waka-->
 
 
