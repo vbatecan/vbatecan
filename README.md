@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C035%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C036%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-706%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-707%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 3,720 Contributions in the Year 2026
+> 🏆 3,722 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -239,7 +239,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1920 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+🌞 Morning                1921 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 🌆 Daytime                2967 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
 🌃 Evening                2761 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
 🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
@@ -247,7 +247,7 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Monday                   765 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 Tuesday                  962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 Thursday                 1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
@@ -263,53 +263,53 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-C#                       1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Other                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Unity3D Asset            1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+TypeScript               2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
+Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+C#                       57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Unity3D Asset            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 8 mins        ████████████████░░░░░░░░░   62.53 % 
-VS Code                  2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Antigravity CLI          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Codex Vscode             3 hrs 54 mins       ██████████████░░░░░░░░░░░   57.02 % 
+VS Code                  2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
+Antigravity CLI          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🐱‍💻 Projects: 
-CIT2101_2D               3 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
-pikash-web               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-DCSSMeetingScheduler     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-dbm_scheduling           45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-scholars-path            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+pikash-web               1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+DCSSMeetingScheduler     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+CIT2101_2D               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Pikash                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+dbm_scheduling           45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 
 💻 Operating System: 
-Linux                    6 hrs 45 mins       █████████████████████░░░░   82.20 % 
-Windows                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Linux                    5 hrs 23 mins       ████████████████████░░░░░   78.64 % 
+Windows                  1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 32 mins (79.56%)
+⏱ AI Coding Time: 5 hrs 10 mins (75.44%)
 
-✍️ 2,745 lines written by AI, 355 lines written by hand (88.55% AI-written)
+✍️ 3,936 lines written by AI, 357 lines written by hand (91.68% AI-written)
 
-🔤 3,891,122 Input Tokens, 606,612 Output Tokens
+🔤 2,548,325 Input Tokens, 420,170 Output Tokens
 
-💵 $23.58 Estimated AI Cost This Week
+💵 $19.81 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 66 AI Prompts
+🧠 17 AI Sessions, 54 AI Prompts
 
-GPT                      1,722 lines         ███████████████░░░░░░░░░░   60.02 % 
-Gemini                   1,147 lines         ██████████░░░░░░░░░░░░░░░   39.98 % 
+GPT                      2,908 lines         ██████████████████░░░░░░░   71.71 % 
+Gemini                   1,147 lines         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.55% of written lines came from AI
-📚 Verbose Prompter — average 1,999 characters per prompt
+🤖 AI-Driven — 91.68% of written lines came from AI
+📚 Verbose Prompter — average 1,690 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 14.15% of changed lines were hand-edited
+🚀 High AI Trust — 10.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -329,7 +329,7 @@ C#                       8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:34:13 UTC
+ Last Updated on 20/10/2026 21:49:21 UTC
 <!--END_SECTION:waka-->
 
 
