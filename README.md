@@ -263,52 +263,51 @@ Sunday                   1159 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-C#                       3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Markdown                 3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-TypeScript               2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Dart                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C#                       3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Markdown                 3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+TypeScript               2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Dart                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs               ████████████████░░░░░░░░░   63.70 % 
-VS Code                  3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Antigravity CLI          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Codex Vscode             8 hrs               █████████████████░░░░░░░░   67.76 % 
+VS Code                  3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-Pikash                   5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.97 % 
-studytogether            3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-DCSSMeetingScheduler     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-My3DGame                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Pikash                   5 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.51 % 
+studytogether            3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+DCSSMeetingScheduler     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+My3DGame                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Linux                    10 hrs              ████████████████████░░░░░   79.60 % 
-Windows                  2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Linux                    10 hrs              █████████████████████░░░░   84.69 % 
+Windows                  1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 11 mins (81.08%)
+⏱ AI Coding Time: 9 hrs 41 mins (82.09%)
 
-✍️ 29,554 lines written by AI, 485 lines written by hand (98.39% AI-written)
+✍️ 28,407 lines written by AI, 237 lines written by hand (99.17% AI-written)
 
-🔤 12,516,204 Input Tokens, 2,095,204 Output Tokens
+🔤 12,158,870 Input Tokens, 2,038,754 Output Tokens
 
-💵 $117.18 Estimated AI Cost This Week
+💵 $115.70 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 156 AI Prompts
+🧠 24 AI Sessions, 149 AI Prompts
 
-GPT                      29,385 lines        ████████████████████████░   96.24 % 
-Gemini                   1,147 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+GPT                      29,385 lines        █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.39% of written lines came from AI
-📚 Verbose Prompter — average 3,474 characters per prompt
+🤖 AI-Driven — 99.17% of written lines came from AI
+📚 Verbose Prompter — average 3,298 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.16% of changed lines were hand-edited
+🚀 High AI Trust — 1.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -328,7 +327,7 @@ C#                       9 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:35:48 UTC
+ Last Updated on 24/10/2026 21:04:21 UTC
 <!--END_SECTION:waka-->
 
 
