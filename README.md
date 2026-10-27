@@ -236,80 +236,6 @@
  > 
 > 🔑 56 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1921 commits        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-🌆 Daytime                2993 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌃 Evening                2765 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   765 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Tuesday                  962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Wednesday                1016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Thursday                 1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Friday                   1014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Saturday                 1778 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Sunday                   1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-C#                       3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
-TypeScript               1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 42 mins       ███████████████░░░░░░░░░░   60.62 % 
-Codex Vscode             2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Antigravity CLI          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-
-🐱‍💻 Projects: 
-DCSSMeetingScheduler     2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Pikash                   1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-My3DGame                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-shelf-app                1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-facebook-autopost        51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-
-💻 Operating System: 
-Linux                    5 hrs 10 mins       █████████████████░░░░░░░░   66.46 % 
-Windows                  2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 38 mins (72.51%)
-
-✍️ 4,921 lines written by AI, 237 lines written by hand (95.41% AI-written)
-
-🔤 3,254,073 Input Tokens, 461,064 Output Tokens
-
-💵 $49.16 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 64 AI Prompts
-
-GPT                      5,173 lines         █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.41% of written lines came from AI
-📚 Verbose Prompter — average 2,030 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.71% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -327,7 +253,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:51:50 UTC
+ Last Updated on 27/10/2026 22:30:42 UTC
 <!--END_SECTION:waka-->
 
 
