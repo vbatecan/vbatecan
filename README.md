@@ -228,22 +228,96 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 3,762 Contributions in the Year 2026
+> 🏆 3,764 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 74 Public Repositories 
  > 
 > 🔑 56 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1921 commits        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌆 Daytime                2993 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌃 Evening                2765 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
+🌙 Night                  148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   765 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Tuesday                  962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Wednesday                1016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Friday                   1014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 1778 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Sunday                   1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+C#                       2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+TypeScript               1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Python                   1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Dart                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 50 mins       ███████████████████░░░░░░   76.61 % 
+Antigravity CLI          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Codex Vscode             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+
+🐱‍💻 Projects: 
+DCSSMeetingScheduler     2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
+shelf-app                2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+facebook-autopost        1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+studytogether            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+ecert-generator          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+
+💻 Operating System: 
+Linux                    5 hrs               ████████████████░░░░░░░░░   65.79 % 
+Windows                  2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 34 mins (86.15%)
+
+✍️ 15,430 lines written by AI, 105 lines written by hand (99.32% AI-written)
+
+🔤 4,119,237 Input Tokens, 919,435 Output Tokens
+
+💵 $57.58 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 76 AI Prompts
+
+GPT                      15,771 lines        █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.32% of written lines came from AI
+📄 Detailed Prompter — average 1,026 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.17% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-TypeScript               31 repos            ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   32 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               31 repos            ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+ShaderLab                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
@@ -253,7 +327,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:30:42 UTC
+ Last Updated on 28/10/2026 22:47:05 UTC
 <!--END_SECTION:waka-->
 
 
