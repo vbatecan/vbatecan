@@ -219,6 +219,8 @@
 
 ## WakaTime Stats
 
+[![Total coding time](https://wakatime.com/badge/user/440d9c4b-6f03-44a6-8e43-16169a251e1f.svg)](https://wakatime.com/@vbatecan)
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 

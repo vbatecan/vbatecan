@@ -20,4 +20,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "True"
           SHOW_AI_CODING: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
