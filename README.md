@@ -222,11 +222,13 @@
 [![Total coding time](https://wakatime.com/badge/user/440d9c4b-6f03-44a6-8e43-16169a251e1f.svg)](https://wakatime.com/@vbatecan)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-786%20hrs%2030%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 3,856 Contributions in the Year 2026
+> 🏆 3,858 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -237,9 +239,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1942 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌆 Daytime                3025 commits        ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌃 Evening                2778 commits        █████████░░░░░░░░░░░░░░░░   35.14 % 
+🌞 Morning                1944 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌆 Daytime                3025 commits        ██████████░░░░░░░░░░░░░░░   38.25 % 
+🌃 Evening                2778 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
 🌙 Night                  161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -247,11 +249,11 @@
 ```text
 Monday                   772 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 Tuesday                  978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Wednesday                1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Wednesday                1026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 Thursday                 1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 Friday                   1015 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Saturday                 1785 commits        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Sunday                   1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Saturday                 1785 commits        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Sunday                   1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -283,28 +285,6 @@ looplab                  1 hr 8 mins         ██░░░░░░░░░�
 Windows                  13 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 48 mins (92.63%)
-
-✍️ 9,302 lines written by AI, 555 lines written by hand (94.37% AI-written)
-
-🔤 4,615,698 Input Tokens, 781,088 Output Tokens
-
-💵 $102.31 Estimated AI Cost This Week
-
-🧠 29 AI Sessions, 138 AI Prompts
-
-GPT                      9,410 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.37% of written lines came from AI
-📄 Detailed Prompter — average 734 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.63% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -322,7 +302,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 03:11:40 UTC
+ Last Updated on 18/11/2026 03:22:39 UTC
 <!--END_SECTION:waka-->
 
 
