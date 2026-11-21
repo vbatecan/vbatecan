@@ -263,26 +263,26 @@ Sunday                   1173 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Rust                     4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-TypeScript               3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Other                    3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript               2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Rust                     2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Slint                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 31 mins      ████████████████░░░░░░░░░   62.22 % 
-Codex Vscode             8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
-Codex CLI                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+VS Code                  11 hrs 14 mins      ██████████████████████░░░   87.38 % 
+Codex Vscode             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Codex CLI                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🐱‍💻 Projects: 
-still-island             5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-portfolio                4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-mywinisland              3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-CIT2101_2D               3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-htdocs                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+still-island             5 hrs               ██████████░░░░░░░░░░░░░░░   38.91 % 
+portfolio                4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+d-x20                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+GeminiProject            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Nytri                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Windows                  24 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -302,7 +302,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:47:32 UTC
+ Last Updated on 21/11/2026 00:06:58 UTC
 <!--END_SECTION:waka-->
 
 
