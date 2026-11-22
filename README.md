@@ -228,7 +228,7 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 3,871 Contributions in the Year 2026
+> 🏆 3,895 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -239,21 +239,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1947 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-🌆 Daytime                3028 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
-🌃 Evening                2785 commits        █████████░░░░░░░░░░░░░░░░   35.16 % 
-🌙 Night                  161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+🌞 Morning                1955 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌆 Daytime                3044 commits        ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌃 Evening                2793 commits        █████████░░░░░░░░░░░░░░░░   35.12 % 
+🌙 Night                  161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   772 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Tuesday                  978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Wednesday                1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 1160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Friday                   1015 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 1786 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Sunday                   1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Monday                   776 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Tuesday                  987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Wednesday                1040 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 1160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Friday                   1015 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Saturday                 1786 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Sunday                   1189 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 ```
 
 
@@ -263,26 +263,26 @@ Sunday                   1173 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Rust                     2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Slint                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Markdown                 3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+TypeScript               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Python                   2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Rust                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Dart                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 14 mins      ██████████████████████░░░   87.38 % 
-Codex Vscode             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Codex CLI                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+VS Code                  20 hrs 28 mins      ███████████████████████░░   91.32 % 
+Codex CLI                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Codex Vscode             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🐱‍💻 Projects: 
-still-island             5 hrs               ██████████░░░░░░░░░░░░░░░   38.91 % 
-portfolio                4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-d-x20                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-GeminiProject            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Nytri                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+still-island             5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+portfolio                4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Sunrise                  4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+pikash_flutter           3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+CIT2101_2D               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 💻 Operating System: 
-Windows                  12 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -302,7 +302,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:33:19 UTC
+ Last Updated on 22/11/2026 23:45:11 UTC
 <!--END_SECTION:waka-->
 
 
