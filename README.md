@@ -222,13 +222,13 @@
 [![Total coding time](https://wakatime.com/badge/user/440d9c4b-6f03-44a6-8e43-16169a251e1f.svg)](https://wakatime.com/@vbatecan)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-802%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-807%20hrs%2047%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 3,932 Contributions in the Year 2026
+> 🏆 3,936 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -263,27 +263,27 @@ Sunday                   1189 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Rust                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Dart                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Slint                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Dart                     16 hrs 16 mins      ███████████████░░░░░░░░░░   61.16 % 
+Other                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Markdown                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+TypeScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 53 mins      ██████████████████████░░░   88.42 % 
-Codex Vscode             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Codex CLI                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Claude Code              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+VS Code                  18 hrs 26 mins      █████████████████░░░░░░░░   69.27 % 
+Claude Code              4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Codex CLI                2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Antigravity CLI          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-still-island             5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-portfolio                4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-pikash_flutter           3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-d-x20                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Nytri                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+pikash_flutter           21 hrs 48 mins      ████████████████████░░░░░   81.96 % 
+shelf-app                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Stats                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+memories_v2              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+InventorySystem          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -303,7 +303,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2026 01:56:08 UTC
+ Last Updated on 27/11/2026 01:53:45 UTC
 <!--END_SECTION:waka-->
 
 
