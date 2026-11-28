@@ -228,13 +228,13 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 3,936 Contributions in the Year 2026
+> 🏆 3,945 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 77 Public Repositories 
  > 
-> 🔑 57 Private Repositories 
+> 🔑 58 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -263,37 +263,37 @@ Sunday                   1189 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Dart                     16 hrs 16 mins      ███████████████░░░░░░░░░░   61.16 % 
-Other                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Markdown                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-TypeScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Dart                     16 hrs 16 mins      ████████████████░░░░░░░░░   62.42 % 
+Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+TypeScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 26 mins      █████████████████░░░░░░░░   69.27 % 
-Claude Code              4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Codex CLI                2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Antigravity CLI          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+VS Code                  18 hrs 17 mins      ██████████████████░░░░░░░   70.16 % 
+Claude Code              4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Codex CLI                2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Antigravity CLI          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🐱‍💻 Projects: 
-pikash_flutter           21 hrs 48 mins      ████████████████████░░░░░   81.96 % 
-shelf-app                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Stats                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-memories_v2              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-InventorySystem          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+pikash_flutter           21 hrs 24 mins      █████████████████████░░░░   82.12 % 
+shelf-app                1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Stats                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+memories_v2              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+InventorySystem          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Windows                  26 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
@@ -303,7 +303,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:53:45 UTC
+ Last Updated on 28/11/2026 01:35:48 UTC
 <!--END_SECTION:waka-->
 
 
